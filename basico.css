@@ -9,6 +9,7 @@ body {
   padding: 0;
   margin: 0;
   font-family: 'Exo', sans-serif;
+  background-color: rgb(255, 252, 66);
 }
 
 /* -----------------------------------------
@@ -18,10 +19,11 @@ body {
   position: relative;
   padding: 10px 10px 42px 10px;
   background-color: #000;
-  background-image: linear-gradient(to right, #6F92CC, #A6C0EC);
-  border-bottom: 1px solid #6F92CC;
+  background-image: linear-gradient(to right, #76288d, #dc6aeb);
+  border-bottom: 1px solid #b44aaf;
   box-shadow: 2px 2px 1px silver;
   color: #fff;
+  text-align: center;
 }
 
 #cabecalho h1 {
@@ -187,6 +189,7 @@ body {
  */
 #info {
   padding: 15px;
-  background-color: rgb(136, 228, 95);
+  background-color: #76288d;
   color: #fff;
+  text-align: center;
 }
